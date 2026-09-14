@@ -23,6 +23,6 @@
 <br><br>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethma777&theme=radical&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethma777&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Nethma777&background=0D1B2A&border=0D1B2A&stroke=E0A458&ring=E0A458&fire=E0A458&currStreakNum=E0E1DD&sideNums=E0E1DD&currStreakLabel=E0A458&sideLabels=778DA9&dates=778DA9&hide_border=true" width="60%" />
 
 </div>
