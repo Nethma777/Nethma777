@@ -4,7 +4,11 @@
 
 </div>
 
-Full-stack Software Engineer (React · Node.js · TypeScript · PostgreSQL) | BSc (Hons) IT, University of Moratuwa
+Full-stack Software Engineer (React · Node.js · TypeScript · PostgreSQL)
+
+🎓 **BSc (Hons) in Information Technology — University of Moratuwa**
+
+![UoM](https://img.shields.io/badge/University%20of%20Moratuwa-2022--2026-8B0000?style=flat-square)
 
 - 💼 Software Engineer Intern @ Genesis IT Labs — built full-stack solutions for real clients across the SDLC
 - 📄 Co-author, *"Artista – Digital Art Marketplace"* — 9th ICITR 2024 (IEEE)
